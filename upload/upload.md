@@ -22,3 +22,25 @@
 	//重复上述操作
 
 由于指定目录可能存在一些文件，一般的解决方法是先pull，再push，或者强行push，但这些方法我都不喜欢。使用合并工具可以轻松解决问题。
+
+3、在GitHub上展示项目（以redux-demo项目为例）
+
+项目git地址：[https://github.com/beat-the-buzzer/redux-demo.git](https://github.com/beat-the-buzzer/redux-demo.git)
+
+第一步：redux-demo是基于create-react-app的项目，因此，我执行这个命令：
+
+	npm run build
+
+得到了react项目的资源目录build
+
+第二步：将build目录上传至master分支
+
+第三步：执行命令：
+
+	git subtree push --prefix=build origin gh-pages
+
+执行完这个命令之后，资源文件全部放进了gh-pages分支
+
+第四步：输入地址，访问页面
+
+	https://beat-the-buzzer.github.io/redux-demo/
