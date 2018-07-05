@@ -5,4 +5,4 @@
  - [meta属性及其作用](https://github.com/beat-the-buzzer/conclusion/blob/master/meta/meta.md)
  - [冷门，js中的位运算和逻辑运算符](https://github.com/beat-the-buzzer/conclusion/blob/master/bitwise/bitwise.md)
  - [上传代码到GitHub](https://github.com/beat-the-buzzer/conclusion/blob/master/upload/upload.md)
- - [Windows下调试webApp(andriod & ios)](https://github.com/beat-the-buzzer/conclusion/blob/master/debug/debug.md)
+ - [原型、继承、原型链的相关知识](https://github.com/beat-the-buzzer/conclusion/blob/master/prototype/prototype.md)
