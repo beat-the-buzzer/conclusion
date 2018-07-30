@@ -8,3 +8,4 @@
  - [原型、继承、原型链的相关知识](https://github.com/beat-the-buzzer/conclusion/blob/master/prototype/prototype.md)
  - [手机端开发的原生交互](https://github.com/beat-the-buzzer/conclusion/tree/master/phone)
  - [js类型检测](https://github.com/beat-the-buzzer/conclusion/blob/master/checkType/checkType.md)
+ - [react开发的一些问题](https://github.com/beat-the-buzzer/conclusion/blob/master/react-solution/react-solution.md)
