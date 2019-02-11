@@ -10,3 +10,4 @@
  - [js类型检测](https://github.com/beat-the-buzzer/conclusion/blob/master/checkType/checkType.md)
  - [react开发的一些问题](https://github.com/beat-the-buzzer/conclusion/blob/master/react-solution/react-solution.md)
  - [Javascript异步编程](https://github.com/beat-the-buzzer/conclusion/blob/master/async/async.md)
+ - [ES3/ES5/ES6对象代理](https://github.com/beat-the-buzzer/conclusion/blob/master/proxy/proxy.md)
